@@ -5,7 +5,7 @@ import android.graphics.Bitmap
 import android.net.Uri
 import android.webkit.WebResourceError
 import android.webkit.WebResourceRequest
-import android.webkit.WebSettings
+import android.webkit.WebResourceResponse
 import android.webkit.WebView
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
